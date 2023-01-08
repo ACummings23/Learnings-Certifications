@@ -1,4 +1,4 @@
-# Learnings-Certifications
+# Learnings/Certifications
 ### Below are the learnings and certification tracks I am currently working on:
 ### Recommender Systems are a personal passion of mine, I am working on the Google Cloud track 
 ### to improve my knowledge of the production side of Data Science and work towards becoming Cloud Certified 
